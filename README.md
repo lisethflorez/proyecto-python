@@ -7,3 +7,5 @@ estan divididas en varias:
 - cita de control
   ## instruciones
   cada pasiente que llegue tiene que pasar primero a registrarse antes de pasar ala cita porque si nolo ase no la pueden atender.
+  ## creador
+  - liseth florez
